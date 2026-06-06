@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1780709968,
+	"version": 1780752827,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -31,7 +31,6 @@
 		"images/posiçãoz-sheet0.png",
 		"images/vegetação-sheet0.png",
 		"images/marcações-sheet0.png",
-		"images/agua-sheet0.png",
 		"images/analogico1-sheet0.png",
 		"images/analogico2-sheet0.png",
 		"images/sensor_frente-sheet0.png",
