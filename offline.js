@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1780666309,
+	"version": 1780709968,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -35,7 +35,6 @@
 		"images/analogico1-sheet0.png",
 		"images/analogico2-sheet0.png",
 		"images/sensor_frente-sheet0.png",
-		"images/wp-sheet0.png",
 		"images/minimapbackground-sheet0.png",
 		"images/ruasminimap-sheet0.png",
 		"images/jogadorminimap-sheet0.png",
@@ -155,6 +154,7 @@
 		"images/camesam2-sheet1.png",
 		"images/camesam2-sheet2.png",
 		"images/chuva-sheet0.png",
+		"images/tilemap_minimap.png",
 		"media/buzina.ogg",
 		"media/estatica.ogg",
 		"media/engatilhando.ogg",
